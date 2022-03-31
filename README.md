@@ -25,7 +25,6 @@ Sou o Igor Medeiros e você está no meu GitHub 😎
 
 ## **Entre em contato via**
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/igor-medeiros-32a989219/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:igormedeiros.f@gmail.com)
 
-![](https://komarev.com/ghpvc/?0dayig0r)
+![](https://komarev.com/ghpvc/?0DayIg0r)
