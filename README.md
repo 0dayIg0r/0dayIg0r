@@ -3,7 +3,7 @@ Sou o Igor Medeiros e você está no meu GitHub 😎
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0dayig0r&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0dayig0r&layout=compact)](https://github.com/0dayig0r/github-readme-stat&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0dayIg0r&layout=compact)](https://github.com/0dayIg0r/github-readme-stats)
 
 
 ## Tecnologias
