@@ -23,7 +23,7 @@ Sou o Igor Medeiros e você está no meu GitHub 😎
 ![WINDOWS](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
 
-##**Entre em contato via**
+## **Entre em contato via**
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/igor-medeiros-32a989219/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:igormedeiros.f@gmail.com)
