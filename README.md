@@ -2,10 +2,19 @@
 Sou o Igor Medeiros e você está no meu GitHub 😎
 
 
-<div style="display: inline_block" >
-  <a href="https://github.com/0dayig0r">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=0dayig0r&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayig0r&layout=compact&langs_count=7&theme=react" />
+<p align="justify">
+  <a href="https://github.com/0dayig0r/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=0dayig0r&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=react"
+    />
+  </a>
+   <a href="https://github.com/0dayig0r/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayig0r&layout=compact&theme=react" />
+  </a>  
+</p>
   
 ## Tecnologias
 
