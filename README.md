@@ -2,10 +2,11 @@
 Sou o Igor Medeiros e você está no meu GitHub 😎
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0dayig0r&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0dayIg0r&layout=compact)](https://github.com/0dayIg0r/github-readme-stats&theme=dracula)
-
-
+<div >
+  <a href="https://github.com/0dayig0r">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=0dayig0r&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayig0r&layout=compact&langs_count=7&theme=react" />
+  
 ## Tecnologias
 
 ![!HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +28,5 @@ Sou o Igor Medeiros e você está no meu GitHub 😎
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/igor-medeiros-32a989219/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:igormedeiros.f@gmail.com)
 
-![](https://komarev.com/ghpvc/?0DayIg0r)
+![Snake animation](https://github.com/0dayig0r/0dayig0r/blob/output/github-contribution-grid-snake.svg)
 
-
-![Snake animation](https://github.com/0dayig0r/rafaballerini/blob/output/github-contribution-grid-snake.svg)
