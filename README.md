@@ -3,7 +3,7 @@ Sou o Igor Medeiros e você está no meu GitHub 😎
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0dayig0r&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0dayIg0r&layout=compact)](https://github.com/0dayIg0r/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0dayIg0r&layout=compact)](https://github.com/0dayIg0r/github-readme-stats&theme=dracula)
 
 
 ## Tecnologias
@@ -28,3 +28,6 @@ Sou o Igor Medeiros e você está no meu GitHub 😎
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:igormedeiros.f@gmail.com)
 
 ![](https://komarev.com/ghpvc/?0DayIg0r)
+
+
+![Snake animation](https://github.com/0dayig0r/rafaballerini/blob/output/github-contribution-grid-snake.svg)
