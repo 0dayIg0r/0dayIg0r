@@ -1,7 +1,4 @@
 ### Bem-vindo(a)! 
-Sou o Igor Medeiros e você está no meu GitHub 😎
-WHATSAPP: 61993356128
-
 
 <p align="justify">
   <a href="https://github.com/0dayig0r/github-readme-stats">
