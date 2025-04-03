@@ -1,93 +1,116 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Bem-vindo(a) ao meu perfil!
+# <div align="center">👋 Hello, I'm Igor Medeiros</div>
 
 <div align="center">
-  
-  [![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=0dayig0r&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/0dayig0r)
-  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=0dayig0r&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/0dayig0r)
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&width=500&lines=Full+Stack+Developer;AWS+Certified+Professional;Scrum+Certified" alt="Typing SVG" />
 </div>
 
-## 🏆 Certificações Profissionais
+---
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 30px; margin: 25px 0;">
-
-<div style="text-align: center;">
-  <h3>Scrum Foundation Professional Certification - SFPC™</h3>
-  <img src="https://images.credly.com/size/180x180/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="100" alt="SFPC"/>
-  <p>
-    <a href="https://www.credly.com/badges/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/public_url">
-      <img src="https://img.shields.io/badge/Ver_Credencial-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver Credencial"/>
-    </a>
-  </p>
-</div>
-
-<div style="text-align: center;">
-  <h3>AWS Academy Educator</h3>
-  <img src="https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png" width="100" alt="AWS Educator"/>
-  <p>
-    <a href="https://www.credly.com/badges/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/public_url">
-      <img src="https://img.shields.io/badge/Ver_Credencial-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Ver Credencial"/>
-    </a>
-  </p>
-</div>
-
-<div style="text-align: center;">
-  <h3>AWS Academy Graduate - AWS Academy Cloud Foundations</h3>
-  <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" alt="AWS Cloud Foundations"/>
-  <p>
-    <a href="https://www.credly.com/badges/73e4a58b-a8ef-41a3-a7db-9183dd269882/public_url">
-      <img src="https://img.shields.io/badge/Ver_Credencial-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Ver Credencial"/>
-    </a>
-  </p>
-</div>
-
-</div>
-<h2>## 🛠 Stack Tecnológica</h2>
-
- <h2>🌐 Frontend</h2>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-
-<h2>📱 Mobile</h2>
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37)
-
-<h2>### ⚙️ Backend</h2>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
-
-<h2>### 🗃 Bancos de Dados</h2>
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
-<h2>### 🧪 Testing</h2>
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
-
-<h2> 📈 Estatísticas de Contribuição</h2>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0dayig0r&theme=react-dark&hide_border=true&area=true" width="90%"/>
+  <a href="https://github.com/0dayig0r">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0dayig0r&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayig0r&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=2F81F7"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/0DayIg0r/0dayig0r/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0dayig0r&theme=react-dark&hide_border=true&area=true&color=2F81F7&line=2F81F7&point=FFFFFF" width="90%"/>
 </div>
 
-<h2> 📫 Vamos conversar!</h2>
+---
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-medeiros-32a989219/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igormedeiros.f@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0dayig0r)
+## 🏆 Professional Certifications
+
+<div align="center" style="display: flex; flex-direction: column; gap: 2rem; margin: 2rem 0;">
+
+### <div style="color: #2F81F7; font-size: 1.3rem; font-weight: 600;">Scrum Foundation Professional Certification - SFPC™</div>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
+  <img src="https://images.credly.com/size/180x180/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="120" alt="SFPC"/>
+  <a href="https://www.credly.com/badges/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/public_url">
+    <img src="https://img.shields.io/badge/View_Credential-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Credential"/>
+  </a>
+</div>
+
+### <div style="color: #2F81F7; font-size: 1.3rem; font-weight: 600;">AWS Academy Educator</div>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
+  <img src="https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png" width="120" alt="AWS Educator"/>
+  <a href="https://www.credly.com/badges/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/public_url">
+    <img src="https://img.shields.io/badge/View_Credential-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="View Credential"/>
+  </a>
+</div>
+
+### <div style="color: #2F81F7; font-size: 1.3rem; font-weight: 600;">AWS Academy Graduate - Cloud Foundations</div>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
+  <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="120" alt="AWS Cloud Foundations"/>
+  <a href="https://www.credly.com/badges/73e4a58b-a8ef-41a3-a7db-9183dd269882/public_url">
+    <img src="https://img.shields.io/badge/View_Credential-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="View Credential"/>
+  </a>
+</div>
 
 </div>
 
+---
+
+## 🛠️ Tech Stack
+
+### 📋 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0dayig0r&color=blueviolet&style=flat-square" alt="Visualizações do perfil"/>
+  <a href="https://www.linkedin.com/in/igor-medeiros-32a989219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:igormedeiros.f@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/0dayig0r">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/0DayIg0r/0dayig0r/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=0dayig0r&color=2F81F7&style=flat-square" alt="Profile views"/>
 </div>
