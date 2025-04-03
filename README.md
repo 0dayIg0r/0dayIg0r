@@ -42,32 +42,33 @@
 </div>
 
 </div>
-## 🛠 Stack Tecnológica
+<h2>## 🛠 Stack Tecnológica</h2>
 
-### 🌐 Frontend
+ <h2>🌐 Frontend</h2>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
-### 📱 Mobile
+<h2>📱 Mobile</h2>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37)
 
-### ⚙️ Backend
+<h2>### ⚙️ Backend</h2>
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
 
-### 🗃 Bancos de Dados
+<h2>### 🗃 Bancos de Dados</h2>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-### 🧪 Testing
+<h2>### 🧪 Testing</h2>
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-## 📈 Estatísticas de Contribuição
+
+<h2> 📈 Estatísticas de Contribuição</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0dayig0r&theme=react-dark&hide_border=true&area=true" width="90%"/>
@@ -77,7 +78,7 @@
   <img src="https://github.com/0DayIg0r/0dayig0r/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
-## 📫 Vamos conversar!
+<h2> 📫 Vamos conversar!</h2>
 
 <div align="center">
   
