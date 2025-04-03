@@ -13,19 +13,42 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayig0r&layout=compact&theme=react" />
   </a>  
 </p>
-  ### Scrum Foundation Professional Certification - SFPC™
-[![Scrum Foundation Professional Certification - SFPC™](https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](https://www.credly.com/badges/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/public_url)
 
-### AWS Academy Educator
-[![AWS Academy Educator](https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png)](https://www.credly.com/badges/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/public_url)
+## Certificações Profissionais
 
-### AWS Academy Graduate - AWS Academy Cloud Foundations
-[![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/73e4a58b-a8ef-41a3-a7db-9183dd269882/public_url)
+<p align="center">
+  <a href="https://www.credly.com/badges/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/public_url">
+    <img
+      width="100"
+      src="https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png"
+      alt="Scrum Foundation Professional Certification - SFPC™"
+      title="Scrum Foundation Professional Certification - SFPC™"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/public_url">
+    <img
+      width="100"
+      src="https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png"
+      alt="AWS Academy Educator"
+      title="AWS Academy Educator"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/73e4a58b-a8ef-41a3-a7db-9183dd269882/public_url">
+    <img
+      width="100"
+      src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"
+      alt="AWS Academy Graduate - AWS Academy Cloud Foundations"
+      title="AWS Academy Graduate - AWS Academy Cloud Foundations"
+    />
+  </a>
+</p>
   
 ## Tecnologias
 
-![!HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -43,19 +66,17 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![STYLED](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![WINDOWS](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
-
-## **Entre em contato via**
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/igor-medeiros-32a989219/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:igormedeiros.f@gmail.com)
+## Entre em contato via
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-medeiros-32a989219/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igormedeiros.f@gmail.com)
 
 ![Snake animation](https://github.com/0DayIg0r/0dayig0r/blob/output/github-contribution-grid-snake.svg)
  
- <div align="center" >
-<img src="https://komarev.com/ghpvc/?username=0dayig0r&color=green" />
-  </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=0dayig0r&color=green" />
+</div>
