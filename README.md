@@ -30,7 +30,6 @@
 </div>
 
 </div>
-
 ## 🛠 Stack Tecnológica
 
 ### 🌐 Frontend
