@@ -13,12 +13,15 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayig0r&layout=compact&theme=react" />
   </a>  
 </p>
-  <div>
-    <p>Educação</p>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2918d8d3-4d60-4b5a-988e-a146406645bc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f20159dd-2b27-4cfa-a535-254238787ac2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d8a682c4-6c81-47df-bf9a-041f6ce35883" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  </div>
+  ### Scrum Foundation Professional Certification - SFPC™
+[![Scrum Foundation Professional Certification - SFPC™](https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](https://www.credly.com/badges/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/public_url)
+
+### AWS Academy Educator
+[![AWS Academy Educator](https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png)](https://www.credly.com/badges/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/public_url)
+
+### AWS Academy Graduate - AWS Academy Cloud Foundations
+[![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/73e4a58b-a8ef-41a3-a7db-9183dd269882/public_url)
+  
 ## Tecnologias
 
 ![!HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
