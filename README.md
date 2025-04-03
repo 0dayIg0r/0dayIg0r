@@ -13,7 +13,12 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayig0r&layout=compact&theme=react" />
   </a>  
 </p>
-  
+  <div>
+    <p>Educação</p>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2918d8d3-4d60-4b5a-988e-a146406645bc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f20159dd-2b27-4cfa-a535-254238787ac2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d8a682c4-6c81-47df-bf9a-041f6ce35883" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  </div>
 ## Tecnologias
 
 ![!HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
