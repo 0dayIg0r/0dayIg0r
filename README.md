@@ -45,7 +45,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-### � Testing
+### 🧪 Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ## 📈 Estatísticas de Contribuição
@@ -54,8 +54,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0dayig0r&theme=react-dark&hide_border=true&area=true" width="90%"/>
 </div>
 
+## 🐍 Snake Animation 
+
 <div align="center">
-  <img src="https://github.com/0DayIg0r/0dayig0r/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/0dayig0r/0dayig0r/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
 ## 📫 Vamos conversar!
