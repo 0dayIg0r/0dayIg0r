@@ -11,15 +11,15 @@
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 30px; margin: 25px 0;">
 
-### Scrum Foundation Professional Certification - SFPC™
+### Scrum Foundation Professional Certification - SFPC™ <br/>
 [![Scrum Certification](https://img.shields.io/badge/Scrum_Foundation_SFPC™-Professional-blue?style=for-the-badge&logo=scrumalliance)](https://www.credly.com/badges/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/public_url)
 <img src="https://images.credly.com/size/180x180/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="100" alt="SFPC"/>
 
-### AWS Academy Educator
+### AWS Academy Educator <br/>
 [![AWS Educator](https://img.shields.io/badge/AWS_Academy-Educator-orange?style=for-the-badge&logo=amazonaws)](https://www.credly.com/badges/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/public_url)
 <img src="https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png" width="100" alt="AWS Educator"/>
 
-### AWS Academy Graduate - AWS Academy Cloud Foundations
+### AWS Academy Graduate - AWS Academy Cloud Foundations <br/>
 [![AWS Cloud Foundations](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-yellow?style=for-the-badge&logo=amazonaws)](https://www.credly.com/badges/73e4a58b-a8ef-41a3-a7db-9183dd269882/public_url)
 <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" alt="AWS Cloud Foundations"/>
 
