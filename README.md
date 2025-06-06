@@ -119,12 +119,6 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://github.com/0DayIg0r/0dayig0r/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=0dayig0r&color=2F81F7&style=flat-square" alt="Profile views"/>
 </div>
