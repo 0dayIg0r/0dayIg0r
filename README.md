@@ -19,52 +19,34 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0dayig0r&theme=react-dark&hide_border=true&area=true&color=2F81F7&line=2F81F7&point=FFFFFF" width="90%"/>
 </div>
 
----
 
 ## 🏆 Professional Certifications
 
-<div align="center" style="margin: 2.5rem 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin: 2.5rem 0;">
 
-<div style="background: linear-gradient(145deg, #f6f8fa, #ffffff); border-radius: 12px; padding: 1.5rem; margin: 1.5rem 0; box-shadow: 0 4px 8px rgba(0,0,0,0.05); max-width: 600px;">
-  <h3 style="color: #2f81f7; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Scrum Foundation Professional Certification - SFPC™</h3>
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
-    <img src="https://images.credly.com/size/180x180/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="130" alt="SFPC" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
-    <a href="https://www.credly.com/badges/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/public_url" style="text-decoration: none;">
-      <div style="background: #4285f4; color: white; padding: 0.5rem 1rem; border-radius: 6px; font-weight: 500; display: inline-flex; align-items: center; gap: 0.5rem;">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM13 17H11V11H13V17ZM13 9H11V7H13V9Z" fill="currentColor"/></svg>
-        View Credential
-      </div>
-    </a>
-  </div>
+<div style="flex: 1 1 250px; background: linear-gradient(145deg, #f6f8fa, #ffffff); border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 8px rgba(0,0,0,0.05); max-width: 300px; text-align: center;">
+  <h3 style="color: #2f81f7; font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem;">Scrum Foundation Professional Certification - SFPC™</h3>
+  <img src="https://images.credly.com/size/180x180/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="100" alt="SFPC" style="border-radius: 8px;"/>
+  <br/><br/>
+  <a href="https://www.credly.com/badges/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/public_url" style="background: #4285f4; color: white; padding: 0.4rem 0.8rem; border-radius: 6px; font-weight: 500; text-decoration: none;">View Credential</a>
 </div>
 
-<div style="background: linear-gradient(145deg, #f6f8fa, #ffffff); border-radius: 12px; padding: 1.5rem; margin: 1.5rem 0; box-shadow: 0 4px 8px rgba(0,0,0,0.05); max-width: 600px;">
-  <h3 style="color: #2f81f7; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">AWS Academy Educator</h3>
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
-    <img src="https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png" width="130" alt="AWS Educator" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
-    <a href="https://www.credly.com/badges/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/public_url" style="text-decoration: none;">
-      <div style="background: #FF9900; color: white; padding: 0.5rem 1rem; border-radius: 6px; font-weight: 500; display: inline-flex; align-items: center; gap: 0.5rem;">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM13 17H11V11H13V17ZM13 9H11V7H13V9Z" fill="currentColor"/></svg>
-        View Credential
-      </div>
-    </a>
-  </div>
+<div style="flex: 1 1 250px; background: linear-gradient(145deg, #f6f8fa, #ffffff); border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 8px rgba(0,0,0,0.05); max-width: 300px; text-align: center;">
+  <h3 style="color: #2f81f7; font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem;">AWS Academy Educator</h3>
+  <img src="https://images.credly.com/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png" width="100" alt="AWS Educator" style="border-radius: 8px;"/>
+  <br/><br/>
+  <a href="https://www.credly.com/badges/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/public_url" style="background: #FF9900; color: white; padding: 0.4rem 0.8rem; border-radius: 6px; font-weight: 500; text-decoration: none;">View Credential</a>
 </div>
 
-<div style="background: linear-gradient(145deg, #f6f8fa, #ffffff); border-radius: 12px; padding: 1.5rem; margin: 1.5rem 0; box-shadow: 0 4px 8px rgba(0,0,0,0.05); max-width: 600px;">
-  <h3 style="color: #2f81f7; font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">AWS Academy Graduate - Cloud Foundations</h3>
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
-    <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="130" alt="AWS Cloud Foundations" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
-    <a href="https://www.credly.com/badges/73e4a58b-a8ef-41a3-a7db-9183dd269882/public_url" style="text-decoration: none;">
-      <div style="background: #FF9900; color: white; padding: 0.5rem 1rem; border-radius: 6px; font-weight: 500; display: inline-flex; align-items: center; gap: 0.5rem;">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM13 17H11V11H13V17ZM13 9H11V7H13V9Z" fill="currentColor"/></svg>
-        View Credential
-      </div>
-    </a>
-  </div>
+<div style="flex: 1 1 250px; background: linear-gradient(145deg, #f6f8fa, #ffffff); border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 8px rgba(0,0,0,0.05); max-width: 300px; text-align: center;">
+  <h3 style="color: #2f81f7; font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem;">AWS Academy Graduate - Cloud Foundations</h3>
+  <img src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" alt="AWS Cloud Foundations" style="border-radius: 8px;"/>
+  <br/><br/>
+  <a href="https://www.credly.com/badges/73e4a58b-a8ef-41a3-a7db-9183dd269882/public_url" style="background: #FF9900; color: white; padding: 0.4rem 0.8rem; border-radius: 6px; font-weight: 500; text-decoration: none;">View Credential</a>
 </div>
 
 </div>
+
 ---
 
 ## 🛠️ Tech Stack
