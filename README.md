@@ -1,7 +1,7 @@
 # <div align="center">👋 Hello, I'm Igor Medeiros</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&width=500&lines=Full+Stack+Developer;AWS+Certified+Professional;Scrum+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&width=500&lines=Full+Stack+Developer;AWS+Certified+Professional;Scrum+Foundations+Certified" alt="Typing SVG" />
 </div>
 
 ---
