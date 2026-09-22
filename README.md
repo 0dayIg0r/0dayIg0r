@@ -11,19 +11,19 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/igor-medeiros-32a989219/">
-  <img src="https://img.shields.io/badge/LinkedIn-Igor%20Medeiros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/igor-medeiros-32a989219/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" />
 </a>
-<a href="https://github.com/0dayig0r">
-  <img src="https://img.shields.io/badge/GitHub-0dayig0r-181717?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;&nbsp;
+<a href="https://github.com/0dayig0r" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="28" />
 </a>
+&nbsp;&nbsp;
 <a href="mailto:igormedeiros.f@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" />
 </a>
 
 </div>
-
-<br/>
 
 ---
 
@@ -50,8 +50,6 @@ I'm particularly interested in:
 * Developer Experience
 * Agile Development
 
-<br/>
-
 ---
 
 # Tech Stack
@@ -59,28 +57,27 @@ I'm particularly interested in:
 ## Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
+
+**JavaScript • TypeScript**
 
 ---
 
 ## Web Fundamentals
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
+
+**HTML5 • CSS3**
 
 ---
 
 ## Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Redux-111111?style=for-the-badge&logo=redux&logoColor=764ABC" />
-  <img src="https://img.shields.io/badge/Styled%20Components-111111?style=for-the-badge&logo=styledcomponents&logoColor=DB7093" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,styledcomponents" />
 </p>
 
 **React • Next.js • Redux • Styled Components**
@@ -90,8 +87,8 @@ I'm particularly interested in:
 ## Mobile Development
 
 <p>
-  <img src="https://img.shields.io/badge/React%20Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-111111?style=for-the-badge&logo=expo&logoColor=FFFFFF" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://cdn.simpleicons.org/expo/ffffff" width="48" />
 </p>
 
 **React Native • Expo**
@@ -101,8 +98,7 @@ I'm particularly interested in:
 ## Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 **Node.js • Express**
@@ -112,7 +108,7 @@ I'm particularly interested in:
 ## Authentication & Security
 
 <p>
-  <img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" width="48" />
 </p>
 
 **JSON Web Token — JWT**
@@ -124,9 +120,7 @@ Experience implementing authentication and authorization flows using token-based
 ## Databases
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 **PostgreSQL • MySQL • MongoDB**
@@ -136,7 +130,7 @@ Experience implementing authentication and authorization flows using token-based
 ## ORM & Database Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
 </p>
 
 **Prisma ORM**
@@ -146,7 +140,7 @@ Experience implementing authentication and authorization flows using token-based
 ## Testing
 
 <p>
-  <img src="https://img.shields.io/badge/Jest-111111?style=for-the-badge&logo=jest&logoColor=C21325" />
+  <img src="https://skillicons.dev/icons?i=jest" />
 </p>
 
 **Jest**
@@ -156,20 +150,17 @@ Experience implementing authentication and authorization flows using token-based
 ## Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://skillicons.dev/icons?i=git,postman" />
 </p>
 
 **Git • Postman**
-
-<br/>
 
 ---
 
 # Cloud & AWS
 
 <p>
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-111111?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 I have academic and educational experience with **Amazon Web Services** through the **AWS Academy** ecosystem.
@@ -187,19 +178,11 @@ My cloud studies include foundational concepts related to:
 * Scalability
 * High Availability
 
-<br/>
-
 ---
 
 # Certifications & Credentials
 
-<table>
-<tr>
-<td width="50%">
-
-### Scrum Foundation Professional Certification
-
-**SFPC™**
+## Scrum Foundation Professional Certification — SFPC™
 
 Foundation-level certification focused on:
 
@@ -210,45 +193,32 @@ Foundation-level certification focused on:
 * Artifacts
 * Agile Development Practices
 
-</td>
-
-<td width="50%">
-
-### AWS Academy Educator
+## AWS Academy Educator
 
 Credential associated with participation in the **AWS Academy** educational ecosystem.
 
 Focused on cloud education and AWS technologies.
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-### AWS Academy Graduate — Cloud Foundations
+## AWS Academy Graduate — Cloud Foundations
 
 Completed the **AWS Academy Cloud Foundations** program covering fundamental concepts of cloud computing and Amazon Web Services.
 
 Topics include:
 
-**AWS Infrastructure • Cloud Architecture • Networking • Storage • Databases • Security • Cloud Economics • AWS Services**
-
-</td>
-</tr>
-</table>
-
-<br/>
+* AWS Infrastructure
+* Cloud Architecture
+* Networking
+* Storage
+* Databases
+* Security
+* Cloud Economics
+* AWS Services
 
 ---
 
 # What I Focus On
 
-<table>
-<tr>
-<td width="50%">
-
-### Software Engineering
+## Software Engineering
 
 * Clean Architecture
 * Maintainable Code
@@ -258,11 +228,7 @@ Topics include:
 * Performance
 * Scalability
 
-</td>
-
-<td width="50%">
-
-### Application Development
+## Application Development
 
 * Web Applications
 * Mobile Applications
@@ -272,13 +238,7 @@ Topics include:
 * Database Design
 * Authentication
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Cloud
+## Cloud
 
 * AWS
 * Cloud Computing
@@ -287,11 +247,7 @@ Topics include:
 * Scalability
 * Availability
 
-</td>
-
-<td width="50%">
-
-### Development Practices
+## Development Practices
 
 * Git
 * Agile Development
@@ -300,12 +256,6 @@ Topics include:
 * API Testing
 * Developer Experience
 * Code Quality
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ---
 
@@ -321,8 +271,6 @@ Topics include:
 
 </div>
 
-<br/>
-
 ---
 
 # Connect With Me
@@ -335,21 +283,19 @@ I'm always interested in discussing **software development, application architec
 
 <br/>
 
-<a href="https://www.linkedin.com/in/igor-medeiros-32a989219/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/igor-medeiros-32a989219/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" />
 </a>
-
-<a href="https://github.com/0dayig0r">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;&nbsp;
+<a href="https://github.com/0dayig0r" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="30" />
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:igormedeiros.f@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" />
 </a>
 
 <br/><br/>
-
----
 
 ### Igor Medeiros
 
