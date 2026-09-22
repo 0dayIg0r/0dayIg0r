@@ -1,26 +1,10 @@
-<div align="center">
-
 # Igor Medeiros
 
-### Full Stack Developer • AWS Academy Educator • Scrum Foundation Certified
+### Full Stack Developer | AWS Academy Educator | Scrum Foundation Certified
 
-Building scalable, maintainable and high-performance applications with modern JavaScript and TypeScript technologies.
+Full Stack Developer focused on building scalable, maintainable and high-performance applications using modern JavaScript and TypeScript technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/igor-medeiros-32a989219/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/0dayig0r)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:igormedeiros.f@gmail.com)
-
-</div>
-
----
-
-## About Me
-
-I'm a **Full Stack Developer** passionate about building high-quality applications with a strong focus on **clean architecture, performance, scalability and maintainability**.
-
-My work is centered around the modern **JavaScript and TypeScript ecosystem**, developing solutions across frontend, backend and mobile environments.
-
-I'm also interested in **cloud computing, AWS technologies, APIs, software architecture and agile development practices**.
+I work across frontend, backend and mobile development, with a strong interest in software architecture, APIs, cloud computing and developer experience.
 
 ---
 
@@ -28,152 +12,52 @@ I'm also interested in **cloud computing, AWS technologies, APIs, software archi
 
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts" />
-</p>
-
-**JavaScript • TypeScript**
-
----
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square\&logo=typescript)
 
 ### Web Fundamentals
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square\&logo=css3)
 
-**HTML5 • CSS3**
+### Frontend
 
----
+![React](https://img.shields.io/badge/React-000?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square\&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-000?style=flat-square\&logo=redux)
+![Styled Components](https://img.shields.io/badge/Styled_Components-000?style=flat-square\&logo=styledcomponents)
 
-### Frontend Development
+### Mobile
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
-</p>
+![React Native](https://img.shields.io/badge/React_Native-000?style=flat-square\&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000?style=flat-square\&logo=expo)
 
-**React • Next.js • Redux • Styled Components**
+### Backend
 
----
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square\&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square\&logo=express)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square\&logo=jsonwebtokens)
 
-### Mobile Development
+### Databases & ORM
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img height="48" src="https://cdn.simpleicons.org/expo/ffffff" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square\&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square\&logo=prisma)
 
-**React Native • Expo**
+### Testing & Tools
 
----
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**Node.js • Express**
-
----
-
-### Authentication & Security
-
-**JWT — JSON Web Token**
-
----
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-</p>
-
-**MongoDB • PostgreSQL • MySQL**
-
----
-
-### ORM & Database Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prisma" />
-</p>
-
-**Prisma**
-
----
-
-### Testing
-
-<p>
-  <img src="https://skillicons.dev/icons?i=jest" />
-</p>
-
-**Jest**
-
----
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman" />
-</p>
-
-**Git • Postman**
-
----
-
-## Cloud & AWS
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-I have experience and academic training with **Amazon Web Services (AWS)** through the AWS Academy program.
+![Jest](https://img.shields.io/badge/Jest-000?style=flat-square\&logo=jest)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square\&logo=git)
+![Postman](https://img.shields.io/badge/Postman-000?style=flat-square\&logo=postman)
 
 ---
 
 ## Certifications & Credentials
 
-### Scrum Foundation Professional Certification — SFPC™
-
-Foundation-level certification in Scrum and agile development practices.
-
-### AWS Academy Educator
-
-Credential associated with participation in the **AWS Academy** educational program.
-
-### AWS Academy Graduate — Cloud Foundations
-
-Completed the **AWS Academy Cloud Foundations** program, covering fundamental concepts related to:
-
-* Cloud computing
-* AWS infrastructure
-* Cloud architecture
-* Security
-* Networking
-* Storage
-* Databases
-* AWS services
-
----
-
-## Areas of Interest
-
-```text
-Full Stack Development
-Clean Architecture
-Software Architecture
-Web Applications
-Mobile Applications
-REST APIs
-Cloud Computing
-AWS
-Performance
-Scalability
-Developer Experience
-Agile Development
-```
+* Scrum Foundation Professional Certification — SFPC™
+* AWS Academy Educator
+* AWS Academy Graduate — Cloud Foundations
 
 ---
 
@@ -181,25 +65,9 @@ Agile Development
 
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=0dayig0r&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=0dayig0r&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayig0r&layout=compact&theme=github_dark&hide_border=true"
-/>
-
-</div>
-
----
-
-## Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,nodejs,express,mongodb,postgres,mysql,prisma,jest,git,postman,aws" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayig0r&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -207,20 +75,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayig0r&lay
 
 ## Connect with Me
 
-I'm always interested in discussing **software development, web technologies, cloud computing and new projects**.
-
-* **LinkedIn:** [Igor Medeiros](https://www.linkedin.com/in/igor-medeiros-32a989219/)
-* **GitHub:** [0dayig0r](https://github.com/0dayig0r)
-* **Email:** [igormedeiros.f@gmail.com](mailto:igormedeiros.f@gmail.com)
-
----
-
-<div align="center">
-
-### Igor Medeiros
-
-**Full Stack Developer**
-
-`JavaScript` • `TypeScript` • `React` • `Next.js` • `Node.js` • `React Native` • `AWS`
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/igor-medeiros-32a989219/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square\&logo=github)](https://github.com/0dayig0r)
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square\&logo=gmail)](mailto:igormedeiros.f@gmail.com)
