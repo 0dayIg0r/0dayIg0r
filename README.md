@@ -11,9 +11,6 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/igor-medeiros-32a989219/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" />
-</a>
 &nbsp;&nbsp;
 <a href="https://github.com/0dayig0r" target="_blank">
   <img src="https://cdn.simpleicons.org/github/ffffff" width="28" />
@@ -283,9 +280,7 @@ I'm always interested in discussing **software development, application architec
 
 <br/>
 
-<a href="https://www.linkedin.com/in/igor-medeiros-32a989219/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" />
-</a>
+
 &nbsp;&nbsp;
 <a href="https://github.com/0dayig0r" target="_blank">
   <img src="https://cdn.simpleicons.org/github/ffffff" width="30" />
